@@ -1,0 +1,7 @@
+{
+  "categories": [
+    { "id": "001", "title": "Tokyo", "imgUrl": "img" },
+    { "id": "002", "title": "Kyoto", "imgUrl": "img" },
+    { "id": "003", "title": "Heian", "imgUrl": "img" }
+  ]
+}
